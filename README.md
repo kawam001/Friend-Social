@@ -30,8 +30,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ![Friends Social Screen2](friendsosial-screen2.PNG)
 ### Links
 
-
-### Walkthrough Video: 
+https://github.com/kawam001/Friend-Social
 
 https://youtu.be/ai-pojcdi2I
 
